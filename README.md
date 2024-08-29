@@ -1,2 +1,2 @@
-# assignment
-Includes assigments for datascience
+# ASSESSMENT
+Includes ASSESSMENT  AND PROJECT for DATA SCIENCE AND MACHINE LEARNING
